@@ -35,7 +35,7 @@
 #### Input: ml_dataset_LR.xlsx, ml_dataset_NB.xlsx, ml_dataset_RF.xlsx, ml_dataset_SVM_linear.xlsx, ml_dataset_SVM_rbf.xlsx, ml_dataset_SVM_sigmoid.xlsx
 #### Output: phase_prediction_116.xlsx
 * The accuracy of selected six ML models before and after SFS feature selection can be calculated by **"SFS.py"**. <br>
-* The calculated results are listed in **"phase_prediction_116"** <br>
+* The calculated results are listed in **"phase_prediction_116.xlsx"** <br>
 * The accuracy of six ML and DS evidence theory models using original 17 descriptors and descriptor subsets selected by SFS: <br>
 <img src="https://github.com/wylu-github/image/blob/main/accuracy.png" width="600px">
 
