@@ -9,8 +9,9 @@
 * The calculated results are listed in **parameters_50HECs.xlsx** <br>
 * The empirical phase formation rules established by mixing enthalpy and lattice parameter difference:
 <br>
-<img src="https://github.com/wylu-github/image/blob/main/mix_delta.png" width="500px">
-<br>
+<div>
+<img src="https://github.com/wylu-github/image/blob/main/mix_delta.png" width="500px"
+</div>
 ## 2. Calculations of ML descriptors
 #### Filename: descriptors_calculation.py
 #### Input: 382_HEC_systems.xlsx
