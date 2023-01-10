@@ -7,8 +7,7 @@
 * To establish criteria for discriminating single-phase from multi-phase systems, 50 senary HECs as “testing example” are fabricated under the same process. The 50 systems and corresponding phase compositions are listed in **50_senary_HECs.xlsx**. <br>
 * Mixing enthapy and lattice parameter difference can be calculated by **parameters_calculation.py**. <br>
 * The calculated results are listed in **parameters_50HECs.xlsx** <br>
-![empirical phase-zoning map of HECs](https://github.com/wylu-github/image/blob/main/mix_delta.png)
-<img src="https://github.com/wylu-github/image/blob/main/mix_delta.png" width="100px">
+<img src="https://github.com/wylu-github/image/blob/main/mix_delta.png" width="500px">
 ## 2. Calculations of ML descriptors
 #### Filename: descriptors_calculation.py
 #### Input: 382_HEC_systems.xlsx
