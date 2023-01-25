@@ -28,7 +28,7 @@
 * The SFS feature selection can be conducted by **"SFS.py"**. <br>
 * The feature selection results are listed in **"ml_dataset_LR.xlsx", "ml_dataset_NB.xlsx", "ml_dataset_RF.xlsx", "ml_dataset_SVM_linear.xlsx", "ml_dataset_SVM_rbf.xlsx" and "ml_dataset_SVM_sigmoid.xlsx"** <br>
 * The SFS learning curves of accuracy: <br>
-<img src="https://github.com/wylu-github/image/blob/main/SFS%E5%AD%A6%E4%B9%A0%E6%9B%B2%E7%BA%BF.jpg" width="800px">
+<img src="https://github.com/wylu-github/image/blob/main/SFS%E5%AD%A6%E4%B9%A0%E6%9B%B2%E7%BA%BF.jpg" width="700px">
 
 ## 4. Phase prediction of 116 HECs
 #### Filename: 116_accuracy.py
@@ -37,7 +37,7 @@
 * The accuracy of selected six ML models before and after SFS feature selection can be calculated by **"SFS.py"**. <br>
 * The calculated results are listed in **"phase_prediction_116.xlsx"** <br>
 * The accuracy of six ML and DS evidence theory models using original 17 descriptors and descriptor subsets selected by SFS: <br>
-<img src="https://github.com/wylu-github/image/blob/main/accuracy.png" width="600px">
+<img src="https://github.com/wylu-github/image/blob/main/accuracy.png" width="500px">
 
 ## 5. Phase prediction of 382 HECs
 #### Filename: 382_prediction.py
@@ -46,4 +46,4 @@
 * The phase compostions of 382 HECs can be calculated by **"382_prediction.py"**. <br>
 * The calculated results are listed in **"phase_prediction_382.xlsx"** <br>
 * The predicted percentages of single-phase for HECs with different number of components: <br>
-<img src="https://github.com/wylu-github/image/blob/main/382_prediction.png" width="600px">
+<img src="https://github.com/wylu-github/image/blob/main/382_prediction.png" width="500px">
