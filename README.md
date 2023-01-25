@@ -46,3 +46,4 @@
 * The phase compostions of 382 HECs can be calculated by **"382_prediction.py"**. <br>
 * The calculated results are listed in **"phase_prediction_382.xlsx"** <br>
 * The predicted percentages of single-phase for HECs with different number of components: <br>
+<img src="https://github.com/wylu-github/image/blob/main/382_prediction.png" width="600px">
