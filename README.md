@@ -1,5 +1,13 @@
 # A simple and efficient approach to predict single-phase formation of high-entropy transition metal carbides
 ![Graphic Abstract](https://github.com/wylu-github/image/blob/main/Graphical%20abstract.jpg)
+
+## Code runing
+#### Filename: source_main.ipynb
+#### Input: 50_senary_HECs.xlsx, 382_HEC_systems.xlsx
+#### Output middle files: ml_dataset_17.xlsx, ml_dataset_LR.xlsx, ml_dataset_NB.xlsx, ml_dataset_RF.xlsx, ml_dataset_SVM_linear.xlsx, ml_dataset_SVM_rbf.xlsx, ml_dataset_SVM_sigmoid.xlsx, phase_prediction_116.xlsx, phase_prediction_382.xlsx, parameters_50HECs.xlsx
+#### Output: ds_result_17_116, ds_result_SFS_116, ds_result_SFS_382.xlsx
+<br>
+## Code explanation
 ## 1. Empirical phase formation rules for HECs
 #### Filename: parameters_calculation.py
 #### Input: 50_senary_HECs.xlsx
