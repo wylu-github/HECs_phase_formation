@@ -61,4 +61,4 @@
 * The accuracy of six ML and DS evidence theory models using original 17 descriptors and descriptor subsets selected by SFS: <br>
 <img src="https://github.com/wylu-github/image/blob/main/accuracy.png" width="500px"> <br>
 * The predicted phase compositions of 382 equimolar HECs: <br>
-<img src="https://github.com/wylu-github/image/blob/main/382_prediction.png" width="500px">
+<img src="https://github.com/wylu-github/image/blob/main/382_prediction.png" width="500px"> <br>
