@@ -59,6 +59,6 @@
 * The DS evidence theory can be conducted by **"DempsterShafer_116_6.ipynb"** and **"DempsterShafer_382_6.ipynb"**. <br>
 * The calculated results are listed in **"ds_result_SFS_116.xlsx"** and **"phase_prediction_382.xlsx**. <br>
 * The accuracy of six ML and DS evidence theory models using original 17 descriptors and descriptor subsets selected by SFS: <br>
-<img src="https://github.com/wylu-github/image/blob/main/accuracy.png" width="500px">
+<img src="https://github.com/wylu-github/image/blob/main/accuracy.png" width="500px"> <br>
 * The predicted phase compositions of 382 equimolar HECs: <br>
 <img src="https://github.com/wylu-github/image/blob/main/382_prediction.png" width="500px">
