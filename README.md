@@ -44,8 +44,6 @@
 #### Output: phase_prediction_116.xlsx
 * The accuracy of selected six ML models before and after SFS feature selection can be calculated by **"accuracy_116_4.ipynb"**. <br>
 * The calculated results are listed in **"phase_prediction_116.xlsx"** <br>
-* The accuracy of six ML and DS evidence theory models using original 17 descriptors and descriptor subsets selected by SFS: <br>
-<img src="https://github.com/wylu-github/image/blob/main/accuracy.png" width="500px">
 
 ## 5. Phase prediction of 382 HECs
 #### Filename: prediction_382_5.ipynb
@@ -53,8 +51,6 @@
 #### Output: phase_prediction_382.xlsx
 * The phase compostions of 382 HECs can be calculated by **"prediction_382_5.ipynb"**. <br>
 * The calculated results are listed in **"phase_prediction_382.xlsx"** <br>
-* The predicted percentages of single-phase for HECs with different number of components: <br>
-<img src="https://github.com/wylu-github/image/blob/main/382_prediction.png" width="500px">
 
 ## 6. DempsterShafer fusion
 #### Filename: DempsterShafer_116_6.ipynb, DempsterShafer_382_6.ipynb
@@ -62,3 +58,7 @@
 #### Output: ds_result_SFS_116.xlsx, ds_result_SFS_382.xlsx
 * The DS evidence theory can be conducted by **"DempsterShafer_116_6.ipynb"** and **"DempsterShafer_382_6.ipynb"**. <br>
 * The calculated results are listed in **"ds_result_SFS_116.xlsx"** and **"phase_prediction_382.xlsx**. <br>
+* * The accuracy of six ML and DS evidence theory models using original 17 descriptors and descriptor subsets selected by SFS: <br>
+<img src="https://github.com/wylu-github/image/blob/main/accuracy.png" width="500px">
+* The predicted phase compositions of 382 equimolar HECs: <br>
+<img src="https://github.com/wylu-github/image/blob/main/382_prediction.png" width="500px">
